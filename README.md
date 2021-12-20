@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ajaykumar
 - 👀 I’m interested in Problem Solving
-- 🌱 I’m currently learning Web Development
 - 📫 9701151434 ajay.kumar4421@gmail.com
 
 <!---
